@@ -25,7 +25,7 @@ If you click the Learn tab, you can search in everything that is installed and h
 ![Alt text](/img/LearnKinect.png)
 I will recommend that you look around and see what is possible, there is a lot of good inspiration to be found.
 
-### Community
+## Community
 - The fastest way to get help if you are stuck is to post on the chat: https://app.element.io/#/room/#vvvv:matrix.org
 - In the chat, you will often be asked to create a forum post with a deeper explanation https://discourse.vvvv.org/
 
