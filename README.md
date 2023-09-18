@@ -10,7 +10,8 @@ Before we meet on September 29, make sure each group have at least on windows 10
 the following CMD promt, you type the following: "nuget install vl.devices.kinect"
 ![Alt text](/img/CMD-kinect.png)
 ![Alt text](/img/CMD-Kinect-result.png)
-- While you have the CMD prompt open, I will recommend that you install the addonpack. Lots of useful bits and peices
+- While you have the CMD prompt open, you should also install BadMapper and the addons - Lots of useful bits and peices
+    - nuget install vl.badmapper -pre
     - nuget install vl.addons
 
 You should now be able to use the Kinect in vvvv gamma.
