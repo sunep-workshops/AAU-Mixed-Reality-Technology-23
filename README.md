@@ -7,9 +7,7 @@ Before we meet on September 29, make sure each group have at least on windows 10
 - Once vvvv is installed, install the Kinect 360 nuget
     - click the Quad menu in the top right corner and select >Manage Nugets>Commandline.
 ![Alt text](/img/NuGet-CMD.png)
-the following CMD promt, you type the following: "nuget install vl.devices.kinect"
-![Alt text](/img/CMD-kinect.png)
-![Alt text](/img/CMD-Kinect-result.png)
+the following CMD promt, you type the following: "nuget install vl.devices.kinect2"
 - While you have the CMD prompt open, you should also install BadMapper and the addons - Lots of useful bits and peices
     - nuget install vl.badmapper -pre
     - nuget install vl.addons
