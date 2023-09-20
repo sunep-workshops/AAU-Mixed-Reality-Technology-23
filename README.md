@@ -56,4 +56,4 @@ To  make sure that you are actually using the discrete GPU, in settings you go t
 Again, same story about discrete GPUs
 - x86 - Bootcamp your mac and install windows - parallels might work, but can be a nightmare.
 - M1 - Good luck, there are rumors that someone has gotten vvvv gamma to work, but the one time I have tried to get it to work, I couldn't get it to work, I didn't spend too much time on it. If you try this route, you will need to have vvvv gamma up and running on it, including all nugets before the 29th. there will be no time for troubleshooting after that.
-It would be an excelent test on the forum to ask for any experience with this.
+Asking about such experiences would be an excelent test of the forum to ask for any experience with this.
