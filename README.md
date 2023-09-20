@@ -50,7 +50,7 @@ I am not too familiar with the AMD GPUss but similar GPUs from AMD should work j
 If your machine has a discrete GPU, it is probably fine 
 
 ### Assign vvvv to the discrete GPU
-To  make sure that you are actually using the discrete GPU, in settings you go to System>Display>Graphics and select vvvv and choos high performance.
+To  make sure that you are actually using the discrete GPU, in settings you go to System>Display>Graphics and select vvvv and choose high performance.
 
 ### Mac
 Again, same story about discrete GPUs
