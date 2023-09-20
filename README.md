@@ -27,7 +27,9 @@ When you first start vvvv, it looks something like this:
 ![Alt text](/img/GammaStart.png)
 To the right you have the help browser.
 If you click the Learn tab, you can search in everything that is installed and have a help patch. eg. Kinect.
+
 ![Alt text](/img/LearnKinect.png)
+
 I will recommend that you look around and see what is possible, there is a lot of good inspiration to be found.
 ### The Gray Book
 You also have the Gray Book https://thegraybook.vvvv.org/ which collects some documentation.
