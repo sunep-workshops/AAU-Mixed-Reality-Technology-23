@@ -36,6 +36,8 @@ You also have the Gray Book https://thegraybook.vvvv.org/ which collects some do
 Note
 
 ## Community
+However cool vvvv is, the very best thing about it, is the community, lot's of extra functionality is developed by members of the community and the community is very welcoming to new users.
+So join the community and be active. You actually have a community that is genuinely positive and including.
 - The fastest way to get help if you are stuck, is to post in the chat: https://app.element.io/#/room/#vvvv:matrix.org
 - In the chat, you will often be asked to create a forum post with a deeper explanation https://discourse.vvvv.org/
 So my recommendation is to create a user account on vvvv.org as well as lingering around in the chat, sometimes there is quite interesting info that might not be directly relevant, but interesting or cool or something that will help you avoid problems in the future.
