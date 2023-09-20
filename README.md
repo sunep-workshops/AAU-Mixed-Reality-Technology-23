@@ -4,13 +4,19 @@ Before we meet on September 29, make sure each group have at least on windows 10
 
 - vvvv Gamma, latest stable version
     - https://visualprogramming.net/#Download
-- Once vvvv is installed, install the Kinect 360 nuget
+- Once vvvv is installed, install BadMapper and the addon pack
     - click the Quad menu in the top right corner and select >Manage Nugets>Commandline.
-![Alt text](/img/NuGet-CMD.png)
+    ![Alt text](/img/NuGet-CMD.png)
+    - in the command promt, type:
+        - nuget install vl.badmapper -pre
+        - nuget install vl.addons
+
+## This section will change in the coming days
+ install the Kinect 360 nuget
+    - click the Quad menu in the top right corner and select >Manage Nugets>Commandline.
+
 the following CMD promt, you type the following: "nuget install vl.devices.kinect2"
-- While you have the CMD prompt open, you should also install BadMapper and the addons - Lots of useful bits and peices
-    - nuget install vl.badmapper -pre
-    - nuget install vl.addons
+
 - Now install the kinect SDK from microsoft https://www.microsoft.com/en-us/download/details.aspx?id=40278 and reboot your computer
 
 You should now be able to use the Kinect in vvvv gamma.
