@@ -26,14 +26,17 @@ You should now be able to use the Kinect in vvvv gamma.
 When you first start vvvv, it looks something like this:
 ![Alt text](/img/GammaStart.png)
 To the right you have the help browser.
-![Alt text](/img/LearnTab.png)
 If you click the Learn tab, you can search in everything that is installed and have a help patch. eg. Kinect.
 ![Alt text](/img/LearnKinect.png)
 I will recommend that you look around and see what is possible, there is a lot of good inspiration to be found.
+### The Gray Book
+You also have the Gray Book https://thegraybook.vvvv.org/ which collects some documentation.
+Note
 
 ## Community
-- The fastest way to get help if you are stuck is to post on the chat: https://app.element.io/#/room/#vvvv:matrix.org
+- The fastest way to get help if you are stuck, is to post in the chat: https://app.element.io/#/room/#vvvv:matrix.org
 - In the chat, you will often be asked to create a forum post with a deeper explanation https://discourse.vvvv.org/
+So my recommendation is to create a user account on vvvv.org as well as lingering around in the chat, sometimes there is quite interesting info that might not be directly relevant, but interesting or cool or something that will help you avoid problems in the future.
 
 ## Notes on Computer specs.
 Even though vvvv can run on modest hardware, a slow system will severely impact how much is possible with. a more recent system with a discrete GPU is highly recommended and needed for complex graphics at acceptable framerates.
