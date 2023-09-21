@@ -2,7 +2,7 @@
 
 Before we meet on September 29, make sure each group have at least on windows 10/11 PC with the following installed (The kinect nodes will not work with earlier versions of windows):
 
-- vvvv Gamma, latest stable version
+- Download and install vvvv Gamma, latest stable version (currently 5.2)
     - https://visualprogramming.net/#Download
 - Once vvvv is installed, install kinect2, BadMapper and the addon pack
     - click the Quad menu in the top right corner and select >Manage Nugets>Commandline.
