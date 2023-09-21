@@ -4,22 +4,25 @@ Before we meet on September 29, make sure each group have at least on windows 10
 
 - vvvv Gamma, latest stable version
     - https://visualprogramming.net/#Download
-- Once vvvv is installed, install BadMapper and the addon pack
+- Once vvvv is installed, install kinect2, BadMapper and the addon pack
     - click the Quad menu in the top right corner and select >Manage Nugets>Commandline.
     ![Alt text](/img/NuGet-CMD.png)
     - in the command promt, type:
+        - nuget install vl.devices.kinect2
         - nuget install vl.badmapper -pre
         - nuget install vl.addons
 
-## This section will change in the coming days
- install the Kinect 360 nuget
-    - click the Quad menu in the top right corner and select >Manage Nugets>Commandline.
+it will look something like this:
+![bla bla](/img/NugetKinect2.png)
+And then
+![bla bla](/img/NugetKinect2Result.png)
 
-the following CMD promt, you type the following: "nuget install vl.devices.kinect2"
-
-- Now install the kinect SDK from microsoft https://www.microsoft.com/en-us/download/details.aspx?id=40278 and reboot your computer
+- Now install the kinect SDK from microsoft https://www.microsoft.com/en-us/download/details.aspx?id=44559 and reboot your computer
 
 You should now be able to use the Kinect in vvvv gamma.
+
+To make sure that it is working, connect a Kinect2 (kinect one) device and then run the "Visualize the depth pointcloud" help patch, that you find by searching for kinect in the help browser.
+![Alt text](/img/KinectPointcloud.png)
 
 ## Finding help
 
