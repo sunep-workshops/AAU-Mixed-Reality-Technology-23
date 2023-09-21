@@ -24,6 +24,11 @@ You should now be able to use the Kinect in vvvv gamma.
 To make sure that it is working, connect a Kinect2 (kinect one) device and then run the "Visualize the depth pointcloud" help patch, that you find by searching for kinect in the help browser.
 ![Alt text](/img/KinectPointcloud.png)
 
+Similarly, you can check that badmapper is correctly installed by starting the help patch "Using Interactive BadMapper"
+![Alt text](/img/Badmapper.png)
+
+The addons adds amazing texture effects, so you can check out one of those, eg. the ASCII effect.
+![Alt text](/img/Ascii.png)
 ## Finding help
 
 When you first start vvvv, it looks something like this:
