@@ -6,6 +6,12 @@ This is the repository for sharing files and have instructions, links and docume
 The course modules on Fridays September 29 and October 6 will mainly focus on getting started with vvvv gamma. This will be done through examples using projection mapping and tracking with kinect.
 
 ## Instructions before the first module on September 29
+### Get a mouse!
+If you don't have a mouse, get one.
+Patching using a track pad is possible, but really annoying, even on a good trackpad.
+Get one with:
+- 3 buttons (most times, the scroll whell act as middle button)
+- scroll whell (can you even get one without scroll wheel these days?)
 
 [Have everyting installed and working](/docs/BeforeTheWorkshop.md)
 

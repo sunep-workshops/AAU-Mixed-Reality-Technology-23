@@ -1,5 +1,10 @@
 # AAU-Mixed-Reality-Technologies-23
 
+
+## Do Before September 29
+
+### Insrtall vvvv Gamma and extra packages
+
 Before we meet on September 29, make sure each group have at least on windows 10/11 PC with the following installed (The kinect nodes will not work with earlier versions of windows):
 
 - Download and install vvvv Gamma, latest stable version (currently 5.2)
@@ -29,6 +34,7 @@ Similarly, you can check that badmapper is correctly installed by starting the h
 
 The addons adds amazing texture effects, so you can check out one of those, eg. the ASCII effect.
 ![Alt text](/img/Ascii.png)
+
 ## Finding help
 
 When you first start vvvv, it looks something like this:
