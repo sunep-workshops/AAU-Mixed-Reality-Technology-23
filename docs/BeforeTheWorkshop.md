@@ -3,6 +3,15 @@
 
 ## Do Before September 29
 
+### Get a mouse!
+If you don't have a mouse, get one.
+
+Patching using a track pad is possible, but really annoying, even on a good trackpad.
+
+Get a mouse with:
+- 3 buttons (most times, the scroll whell act as middle button)
+- scroll whell (can you even get one without scroll wheel these days?)
+
 ### Insrtall vvvv Gamma and extra packages
 
 Before we meet on September 29, make sure each group have at least on windows 10/11 PC with the following installed (The kinect nodes will not work with earlier versions of windows):
