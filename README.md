@@ -19,7 +19,7 @@ Get a mouse with:
 
 [Useful links and how to find help](/docs/UsefulLinks.md)
 
-[Patch](/patches/Welcome.vl) of the welcome image - download the patch and run after you have followed the instructions above to install vvvv gamma.
+[Patch](/patches/Welcome.vl) of the welcome image - you can download the patch and run it after you have followed the instructions above to install vvvv gamma and the extra packages.
 
 ## About vvvv
 the official description is:
