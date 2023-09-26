@@ -10,7 +10,8 @@ The course modules on Fridays September 29 and October 6 will mainly focus on ge
 If you don't have a mouse, get one.
 
 Patching using a track pad is possible, but really annoying, even on a good trackpad.
-Get one with:
+
+Get a mouse with:
 - 3 buttons (most times, the scroll whell act as middle button)
 - scroll whell (can you even get one without scroll wheel these days?)
 
