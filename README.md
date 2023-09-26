@@ -17,7 +17,7 @@ Get a mouse with:
 
 [Have everyting installed and working](/docs/BeforeTheWorkshop.md)
 
-[Useful links](/docs/UsefulLinks.md)
+[Useful links and how to find help](/docs/UsefulLinks.md)
 
 [Patch](/patches/Welcome.vl) of the welcome image - download the patch and run after you have followed the instructions above to install vvvv gamma.
 
