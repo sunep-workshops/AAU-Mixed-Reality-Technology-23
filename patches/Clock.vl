@@ -20,7 +20,7 @@
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Renderer" />
             </p:NodeReference>
-            <Pin Id="GskOYesxfmgPq7e0JSic1w" Name="Bounds" Kind="InputPin" DefaultValue="1399, 58, 948, 692" />
+            <Pin Id="GskOYesxfmgPq7e0JSic1w" Name="Bounds" Kind="InputPin" DefaultValue="1065, 3, 848, 655" />
             <Pin Id="SfVjUv6cwE2MXOMBSbuJ3i" Name="Input" Kind="InputPin" />
             <Pin Id="OwH1Tobm34jMlz7jaFOccC" Name="Color" Kind="InputPin" />
             <Pin Id="DpdaMfwoacxL8giS9erKTd" Name="Clear" Kind="InputPin" />
@@ -260,7 +260,7 @@
               <Choice Kind="TypeFlag" Name="VerticalTextAlignment" />
             </p:TypeAnnotation>
           </Pad>
-          <Pad Id="RtovCGXsHP1P67dTxqAuEy" Comment="Family Name" Bounds="758,548,143,15" ShowValueBox="true" isIOBox="true" Value="Fixedsys Excelsior 3.01">
+          <Pad Id="RtovCGXsHP1P67dTxqAuEy" Comment="Family Name" Bounds="758,548,163,15" ShowValueBox="true" isIOBox="true" Value="Fixedsys Excelsior 3.01">
             <p:TypeAnnotation LastCategoryFullName="Text" LastDependency="VL.CoreLib.vl">
               <Choice Kind="TypeFlag" Name="FontList" />
             </p:TypeAnnotation>
