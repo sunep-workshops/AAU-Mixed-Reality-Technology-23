@@ -10,6 +10,10 @@
 The Node Institute have a bundle with the recordings of all the workshop at NODE20. While the version of vvvv they are using is old, the concepts are still totally valid (Exept for the few workshops that use vvvv beta)
 - https://thenodeinstitute.org/courses/node20-vvvv-workshop-bundle/
 
+Mainly these two videos in this order:
+- [Introduction to vvvv-gamma for designers](https://thenodeinstitute.org/courses/node20-vvvv-workshop-bundle/lessons/getting-started/topic/introduction-to-vvvv-gamma-for-designers/) See where I got the idea for having you guys patching on the projector.
+- [Object Oriented Patching](https://thenodeinstitute.org/courses/node20-vvvv-workshop-bundle/lessons/vl-language-methodologies/topic/object-oriented-patching/) It's not as scary as it sounds.
+
 ## Great utilities
 - [Github Desktop](https://desktop.github.com/) - the git client I use. feel free to use other clients if you so prefer, as long as you know how to use them.
 - [Visual Studio Code](https://code.visualstudio.com/) - an excelent text editor, integrates very well with github desktop

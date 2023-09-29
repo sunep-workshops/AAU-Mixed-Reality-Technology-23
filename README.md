@@ -5,6 +5,15 @@ This is the repository for sharing files and have instructions, links and docume
 
 The course modules on Fridays September 29 and October 6 will mainly focus on getting started with vvvv gamma. This will be done through examples using projection mapping and tracking with kinect.
 
+## Instructions before part two of the workshops on October 6
+- Most important go watch the two videos and patch along to the two videos from the [NODE20](https://nodeforum.org/activities/festival/node20/) festival that I have highlighted under [Useful Links](/docs/UsefulLinks.md).
+- second, check out if you can get the kinect 360 working the library for that has been updated to work with the current version of dotnet, so it should work now. If you can get it to work, then Thomas have plenty for everyone at the lab.
+- Play around with gamma and see if you can begin making a skeleton of what you want this semesters installation to do. Then we can discuss that on Friday
+- make a github account if you don't have one already
+- Install github desktop and clone this repository (or another client if you have one that you prefer)
+- post questions as [issues](https://github.com/sunep-workshops/AAU-Mixed-Reality-Technology-23/issues)
+- Make a repository for your semester project and invite you group mates and supervisors to it.
+
 ## Instructions before the first module on September 29
 ### Get a mouse!
 If you don't have a mouse, get one.
