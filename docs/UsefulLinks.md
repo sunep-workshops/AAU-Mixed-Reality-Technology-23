@@ -6,6 +6,10 @@
 - https://matrix.to/#/#vvvv:matrix.org - the live chat, active most of the time, lots of vvvv users are nigh owls and/or live in other time zones than CET.
     - [Element.io](https://element.io/download) is a favoured matrix client and the chat is often referred to as the element chat.
 
+### Learning
+The Node Institute have a bundle with the recordings of all the workshop at NODE20. While the version of vvvv they are using is old, the concepts are still totally valid (Exept for the few workshops that use vvvv beta)
+- https://thenodeinstitute.org/courses/node20-vvvv-workshop-bundle/
+
 ## Great utilities
 - [Github Desktop](https://desktop.github.com/) - the git client I use. feel free to use other clients if you so prefer, as long as you know how to use them.
 - [Visual Studio Code](https://code.visualstudio.com/) - an excelent text editor, integrates very well with github desktop
