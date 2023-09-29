@@ -12,7 +12,7 @@ The course modules on Fridays September 29 and October 6 will mainly focus on ge
 - make a github account if you don't have one already
 - Install github desktop and clone this repository (or another client if you have one that you prefer)
 - post questions as [issues](https://github.com/sunep-workshops/AAU-Mixed-Reality-Technology-23/issues)
-- Make a repository for your semester project and invite you group mates and supervisors to it.
+- Make a repository for your semester project and invite you group mates and supervisors to it. You just need one repository per group.
 
 ## Instructions before the first module on September 29
 ### Get a mouse!
