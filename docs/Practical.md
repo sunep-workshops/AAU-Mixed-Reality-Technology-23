@@ -30,7 +30,10 @@ $$ Throw Distance = Image Width \times Throw Ratio$$
 
 When you calculate the position of the projector, you will base the calculations on the relevant dimension, meaning if you have a tall object, you use the height in combination with the image ratio to get the image width. You then use that info to calculate the distance you need to place the projectior at.
 
-You shouldn't need to account for lens shift (How high the image is shifted, relative to the projector position) when using either madmapper or badmapper.
+If you are laze, you can use one of the many online projector calculators. most of the manufacturers have calculators that know their projectors. I reccomend the one from projector central as they have models from across all the brands:
+- [Projector Central](https://www.projectorcentral.com/projection-calculator-pro.cfm)
+
+- Lens Shift - You shouldn't need to account for lens shift (How high the image is shifted, relative to the projector position) when using either madmapper or badmapper.
 
 ### Madmapper
 If you for some reason don't want to use Badmapper and instead want to use madmapper, you need to get the image from vvvv to madmapper. Two situations, madmapper on the same machine and madmapper on a separate machine. for this you have two options, that can also be used to send textures between instances of gamma and badmapper:
