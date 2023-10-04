@@ -33,7 +33,7 @@ $$ Throw Distance = Image Width \times Throw Ratio$$
 
 When you calculate the position of the projector, you will base the calculations on the relevant dimension, meaning if you have a tall object, you use the height in combination with the image ratio to get the image width. You then use that info to calculate the distance you need to place the projectior at.
 
-If you are laze, you can use one of the many online projector calculators. most of the manufacturers have calculators that know their projectors. I reccomend the one from projector central as they have models from across all the brands:
+If you are lazy, you can use one of the many online projector calculators. most of the manufacturers have calculators that know their projectors. I recommend the one from projector central as they have models from across all brands:
 - [Projector Central](https://www.projectorcentral.com/projection-calculator-pro.cfm)
 
 - Lens Shift - You shouldn't need to account for lens shift (How high the image is shifted, relative to the projector position) when using either madmapper or badmapper.
