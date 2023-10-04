@@ -24,8 +24,11 @@ When working with projection mapping it is important to choose the right project
 The formula is simply
 
 $$ Throw Ratio = \dfrac{Throw Distance}{Image Width} $$
+
 Which can give you the following:
+
 $$ Image Width = \dfrac{Throw Distance}{Throw Ratio} $$
+
 $$ Throw Distance = Image Width \times Throw Ratio$$
 
 When you calculate the position of the projector, you will base the calculations on the relevant dimension, meaning if you have a tall object, you use the height in combination with the image ratio to get the image width. You then use that info to calculate the distance you need to place the projectior at.
