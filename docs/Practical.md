@@ -1,4 +1,4 @@
-# Practicalities
+# projection  mapping and kinect
 When working with both kinect and projection mappings, there are quite a few practical issues that you need to consider in your process.
 
 ## Projection mapping
@@ -64,7 +64,9 @@ This is the OG kinect that started the whole thing. It is VERY sensitive to infr
 It works horribly in daylight, if at all.
 
 #### Specs
-The most important spec is the field of view (FOV) of the different sensors. [This page](https://smeenk.com/kinect-field-of-view-comparison/) by [Roland Smeek](https://smeenk.com/) goes through the spcecs of both kinects. He even made [this handy tool](https://www.smeenk.com/webgl/kinectfovexplorer.html) to visualize FOV of the two versions.
+Like when working with projectors and you need to calculate og test the positioning so the projector can illuminate all of the object that you want it to illuminate, you need to do the same with the kinect, only here you need to position it so you can see what it needs to see.
+
+The relevant info is the *Field Of View (FOV)* of the different sensors. [This page](https://smeenk.com/kinect-field-of-view-comparison/) by [Roland Smeek](https://smeenk.com/) goes through the specs of both kinects. He even made [this handy tool](https://www.smeenk.com/webgl/kinectfovexplorer.html) to visualize the FOV of the two versions adn their RGB and Depth sensors.
 
 ### Other Depth Cameras
 
