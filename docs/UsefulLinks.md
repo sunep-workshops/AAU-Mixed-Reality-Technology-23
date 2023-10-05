@@ -14,6 +14,8 @@ Mainly these two videos in this order:
 - [Introduction to vvvv-gamma for designers](https://thenodeinstitute.org/courses/node20-vvvv-workshop-bundle/lessons/getting-started/topic/introduction-to-vvvv-gamma-for-designers/) See where I got the idea for having you guys patching on the projector.
 - [Object Oriented Patching](https://thenodeinstitute.org/courses/node20-vvvv-workshop-bundle/lessons/vl-language-methodologies/topic/object-oriented-patching/) It's not as scary as it sounds.
 
+@TobyK, one of the very active contributers, have made some [great tutorials](https://youtube.com/playlist?list=PLEncasrnvr2bkPb0QKdU1DrDs4Hd_Jr0V&si=0dmKpsbirzEUESTQ) for getting further.
+
 ## Great utilities
 - [Github Desktop](https://desktop.github.com/) - the git client I use. feel free to use other clients if you so prefer, as long as you know how to use them.
 - [Visual Studio Code](https://code.visualstudio.com/) - an excelent text editor, integrates very well with github desktop
