@@ -1,0 +1,22 @@
+
+
+[Category("Filter")]
+[Summary("")]
+shader TransformWorld_TextureFX : TextureFX
+{
+float4x4 tFilter  ;
+	stage override float4 Shading()
+    {	
+	float2 uv = streams.TexCoord;
+	float4 position = Texture0.Sample(Sampler0,uv);
+	float4 coord = mul(Texture0.Sample(Sampler0,uv), tFilter);
+	//coord.xyz /= coord.w;
+	//coord.xyz = abs (coord.xyz);
+	//if (!(	coord.x < -0.5 || coord.x > 0.5 || coord.y < -0.5 || coord.y > 0.5 || coord.z < -0.5 || coord.z > 0.5))
+		return mul(position,tFilter);
+	//else return float4(0,0,0,0);
+
+   
+
+    }
+};

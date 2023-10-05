@@ -1,0 +1,14 @@
+[Category("Filter")]
+[Summary("")]
+shader BlackToWhite_TextureFX : TextureFX
+{
+	stage override float4 Shading()
+    {	
+		float4 c = Texture0.Sample(Sampler0, streams.TexCoord);
+
+		if ((dot(c, 1) / 3 < 0.00001) || (c.a < 0.00001))
+			return 1;
+		else
+			return 0;
+	}
+};

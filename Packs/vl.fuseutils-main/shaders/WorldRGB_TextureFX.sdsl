@@ -1,0 +1,27 @@
+
+//texRGB 
+//texRGBDepth
+//texWorld
+
+[Category("Filter.Experimental")]
+[Summary("")]
+shader WorldRGB_TextureFX : FilterBase
+{
+	
+	float4 Filter(float4 tex0col)
+    {	
+	
+	float2 R = ViewSize;
+	float2 uv = streams.TexCoord;
+	
+	float2 uvMirrored = float2(1 - uv.x,uv.y);
+	float3 worldcoord = Texture2.Sample(Sampler0,uvMirrored).xyz;
+	if ( worldcoord.z >= 0.0000000001f){
+		float2 coord = Texture1.Sample(Sampler0,uvMirrored).xy;
+		return Texture0.Sample(Sampler0,coord);
+		
+	}
+	else return float4(0,0,0,0);
+
+    }
+};
