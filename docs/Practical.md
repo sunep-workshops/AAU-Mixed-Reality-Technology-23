@@ -47,5 +47,39 @@ If you for some reason don't want to use Badmapper and instead want to use madma
 
 Note that you will be sending flat textures and do to some degree loose the ability to adress a three dimensional object.
 
-## Kinect
-Kinect is such a tool that seems to just work when you are testing but depending on how you plan to use it, might fail once there are many people in front of it
+## Depth Cameras
+At ArT we have access to kinect 360 and kinect one (Kinect 1 and kinect 2)
+A depth camera is such a tool that seems to just work when you are testing but depending on how you plan to use it, might fail once there are many people in front of it.
+Kinect 1 can track 2 skeletons, Kinect 2 can track 6.
+
+I have worked with both and find working with skeletons tricky and only successfull if you can control the number of people in front of it. I will now any day prefer kinect 2 over kinect 1, as the sensors are much more robust in regards to lighting.
+
+### Kinect One aka kinect 2
+This is the one I am using in class, it is surprisingly robust when it comes to other lightsources. I have used it in direct sunlight and it worked great.
+Multiple Kinect 2 can co-exist in the same space. Only one can track skeletons if they are connected to the same computer, You can however get the images from the various sensors from all of them.
+
+
+### Kinect 360 or kinect 1
+This is the OG kinect that started the whole thing. It is VERY sensitive to infraread light sources as it works by emitting a pattern of infraread dots. Multiple kinect 1 are tricky, it is possible with some tweaks like having a little motor shaking the kinect slightly.
+It works horribly in daylight, if at all.
+
+#### Specs
+The most important spec is the field of view (FOV) of the different sensors. [This page](https://smeenk.com/kinect-field-of-view-comparison/) by [Roland Smeek](https://smeenk.com/) goes through the spcecs of both kinects. He even made [this handy tool](https://www.smeenk.com/webgl/kinectfovexplorer.html) to visualize FOV of the two versions.
+
+### Other Depth Cameras
+
+#### Azure Kinect
+I have no experience with these sensors and we don't have any at hand. So here I pretend they don't exist.
+If you get your hands on one, you will need these two packages:
+- https://www.nuget.org/packages/VL.Devices.AzureKinect
+- https://www.nuget.org/packages/VL.Devices.AzureKinect.Body
+
+#### Intel Realsense
+These exist somewhere at AAU but are not available for us this semester. Talk to Thomas about it if you are curious about them.
+Like with the Azure version, I have no experience with these and will also pretend they don't exist. If you get one, you need this package
+- https://www.nuget.org/packages/VL.Devices.RealSense
+
+#### there are more
+Microsoft and Intel are not the only ones that have made depth cameras. You can see which cameras that have a VL- nuget in the graybook
+- https://thegraybook.vvvv.org/reference/libraries/depthcameras.html
+
