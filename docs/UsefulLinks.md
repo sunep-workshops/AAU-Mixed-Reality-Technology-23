@@ -7,14 +7,21 @@
     - [Element.io](https://element.io/download) is a favoured matrix client and the chat is often referred to as the element chat.
 
 ### Learning
-The Node Institute have a bundle with the recordings of all the workshop at NODE20. While the version of vvvv they are using is old, the concepts are still totally valid (Exept for the few workshops that use vvvv beta)
+#### The Node Institute
+Have a bundle with the recordings of all the workshop at NODE20. While the version of vvvv they are using is old, the concepts are still totally valid (Exept for the few workshops that use vvvv beta)
 - https://thenodeinstitute.org/courses/node20-vvvv-workshop-bundle/
+- [Gamma for beginners playlist](https://youtube.com/playlist?list=PL2KeRstDQVRRVnzCHEambwAI4yWmpIF-p&si=Srm3DG8KEGhhvty5)
+- about once amonth, there is the [vvvvorldwide meetups](https://youtube.com/playlist?list=PL2KeRstDQVRQUgSEa604MaS3HtA8UgPUt&si=n9qrRDMK27roRGpL) it is featured prominently when they happen. Watch and also present your projects there, student projects are always welcome.
 
 Mainly these two videos in this order:
 - [Introduction to vvvv-gamma for designers](https://thenodeinstitute.org/courses/node20-vvvv-workshop-bundle/lessons/getting-started/topic/introduction-to-vvvv-gamma-for-designers/) See where I got the idea for having you guys patching on the projector.
 - [Object Oriented Patching](https://thenodeinstitute.org/courses/node20-vvvv-workshop-bundle/lessons/vl-language-methodologies/topic/object-oriented-patching/) It's not as scary as it sounds.
 
+#### Others
+
 @TobyK, one of the very active contributers, have made some [great tutorials](https://youtube.com/playlist?list=PLEncasrnvr2bkPb0QKdU1DrDs4Hd_Jr0V&si=0dmKpsbirzEUESTQ) for getting further.
+
+Anton presented a [video](https://youtu.be/nIa12gIAgKg?si=24MJE_huKGgfM99x) by [Takuma Nakata](https://www.youtube.com/@takumanakata) as a reference in class. Takuma is awesome and I can recommend his [learn log playlist](https://youtube.com/playlist?list=PLK3HDkvkLePThFo_sp9hPuue_61nxkQOM&si=n5jcepiYm-HU3lv3) he did when he bagan on getting into gamma.
 
 ## Great utilities
 - [Github Desktop](https://desktop.github.com/) - the git client I use. feel free to use other clients if you so prefer, as long as you know how to use them.
